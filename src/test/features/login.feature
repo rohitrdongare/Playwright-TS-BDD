@@ -1,3 +1,4 @@
+@loginTests
 Feature: User Authentication tests
 
   Background:
